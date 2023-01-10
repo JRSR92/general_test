@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "general_test"
+  site-url: "https://JRSR92.github.io/general_test"
+  description: "general test repo for anything that needs testing with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/JRSR92/general_test"
